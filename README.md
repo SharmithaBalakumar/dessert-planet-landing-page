@@ -1,12 +1,12 @@
-# 🍫 The Dessert Planet - Landing Page
+🍫 The Dessert Planet - Landing Page
 
 A modern and responsive landing page for **The Dessert Planet**, designed using **HTML5** and **CSS3**. This project showcases a premium brownie brand with an attractive user interface, smooth navigation, and a responsive layout.
 
-## 📌 Project Overview
+📌 Project Overview
 
 The Dessert Planet is a static landing page created to promote gourmet brownies. The website features a clean and elegant design with a hero section, product showcase, customer reviews, and a responsive layout for different screen sizes.
 
-## ✨ Features
+✨ Features
 
 - Sticky Navigation Bar
 - Hero Section with Call-to-Action Button
@@ -18,13 +18,13 @@ The Dessert Planet is a static landing page created to promote gourmet brownies.
 - Smooth Hover Effects
 - Clean and Modern UI
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 
 - HTML5
 - CSS3
 
 
-## 📁 Project Structure
+📁 Project Structure
 
 ```text
 dessert-planet-landing-page/
