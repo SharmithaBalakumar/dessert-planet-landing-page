@@ -26,12 +26,13 @@ The Dessert Planet is a static landing page created to promote gourmet brownies.
 
 ## 📁 Project Structure
 
-```
+```text
 dessert-planet-landing-page/
-│── index.html
-│── style.css
+│── Landing Page/
+│   ├── index.html
+│   └── style.css
+│
 └── README.md
-```
 
 ## 🚀 How to Run the Project
 
