@@ -34,13 +34,13 @@ dessert-planet-landing-page/
 │
 └── README.md
 
-## 🚀 How to Run the Project
+ 🚀 How to Run the Project
 
 1. Download or clone the repository.
 2. Open the project folder.
 3. Open `index.html` in any web browser.
 
-## 📷 Preview
+ 📷 Preview
 
 The landing page includes:
 
@@ -50,7 +50,7 @@ The landing page includes:
 - Reviews
 - Contact
 
-## 🎯 Learning Outcomes
+ 🎯 Learning Outcomes
 
 This project helped me learn:
 
@@ -61,7 +61,7 @@ This project helped me learn:
 - Navigation and section linking
 - UI design principles
 
-## 👩‍💻 Author
+ 👩‍💻 Author
 
 SharmithaBalakumar
 
