@@ -50,7 +50,7 @@ The landing page includes:
 - Reviews
 - Contact
 
- 🎯 Learning Outcomes
+🎯 Learning Outcomes
 
 This project helped me learn:
 
@@ -61,12 +61,12 @@ This project helped me learn:
 - Navigation and section linking
 - UI design principles
 
- 👩‍💻 Author
+👩‍💻 Author
 
 SharmithaBalakumar
 
 IV - B.Tech Information Technology 
 
-## 📄 License
+📄 License
 
 This project is created for educational purposes only.
